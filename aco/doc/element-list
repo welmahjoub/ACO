@@ -1,0 +1,10 @@
+fr.istic.Elmahjoub_Simpara.cartaylor.api
+fr.istic.Elmahjoub_Simpara.cartaylor.Exception
+fr.istic.Elmahjoub_Simpara.cartaylor.implementation
+fr.istic.Elmahjoub_Simpara.cartaylor.Interface
+fr.istic.Elmahjoub_Simpara.cartaylor.Model
+fr.istic.Elmahjoub_Simpara.cartaylor.Model.Engine
+fr.istic.Elmahjoub_Simpara.cartaylor.Model.Exterior
+fr.istic.Elmahjoub_Simpara.cartaylor.Model.Interior
+fr.istic.Elmahjoub_Simpara.cartaylor.Model.Transmission
+fr.istic.Elmahjoub_Simpara.cartaylor.test
